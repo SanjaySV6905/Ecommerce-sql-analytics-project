@@ -29,8 +29,11 @@ A relational database was built in MySQL, and advanced SQL queries were used to 
 
 ## 📊 Business Analysis Performed
 ✔ Total revenue calculation  
+
 ✔ Monthly revenue trend  
+
 ✔ Customer segmentation  
+
 ✔ Customer segmentation based on purchase frequency and spending behavior
 
 ✔ Churn risk detection using inter-purchase gap analysis
@@ -40,10 +43,15 @@ A relational database was built in MySQL, and advanced SQL queries were used to 
 ✔ Delivery performance classification (early, on-time, late)
 
 ✔ Impact of delivery delays on customer review scores
+
 ✔ Shipping cost efficiency analysis (freight-to-price ratio)
+
 ✔ Revenue contribution by review sentiment (positive/neutral/negative)
+
 ✔ Product category performance with translation mapping
+
 ✔ Geographic revenue distribution by state
+
 ✔ Payment behavior and method usage analysis
 
 
