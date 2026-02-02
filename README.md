@@ -65,4 +65,10 @@ A relational database was built in MySQL, and advanced SQL queries were used to 
 
 ---
 
+## Dataset
+The dataset used is the Olist Brazilian E-commerce dataset.
+It can be downloaded from Kaggle:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+---
 🚀 This project demonstrates real-world SQL analytics, database design, and business data interpretation.
